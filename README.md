@@ -16,20 +16,16 @@ Application:
 This project serves as a skeleton for an expandable machine learning project. There are a number of improvements that
 can be made to further expand the capabilities of the project.
 
+<pre>
 Usage: color_learner.py [-h] [-c [COLORS [COLORS ...]]] [-i ITERATIONS]
 
 Machine Learning Algorithm to Select Appropriate Font Colors
 
 optional arguments:
-
   -h, --help            show this help message and exit
-
   -c [COLORS [COLORS ...]]
-
                         2 len list of font colors to compare. EX: 05ab1b 55abc8
-
                         Default is random selection.
-
   -i ITERATIONS         Number of training iterations. Minimum 50. Default is
-
                         100.
+</pre>
