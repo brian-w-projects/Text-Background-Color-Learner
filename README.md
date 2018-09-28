@@ -2,6 +2,7 @@
 Small Machine Learning App that selects the best color to display text given different colored backgrounds
 
 Published: 09/28/2018
+
 Author: Brian Weinfeld
 
 This is a small example machine learning project the purpose of which is to determine which color font should be
@@ -11,6 +12,7 @@ selected given a variety of different background colors. Two possible font color
 selected random background colors. The selections are displayed on the tkinter window.
 
 Application:
+
 This project serves as a skeleton for an expandable machine learning project. There are a number of improvements that
 can be made to further expand the capabilities of the project.
 
@@ -19,9 +21,15 @@ Usage: color_learner.py [-h] [-c [COLORS [COLORS ...]]] [-i ITERATIONS]
 Machine Learning Algorithm to Select Appropriate Font Colors
 
 optional arguments:
+
   -h, --help            show this help message and exit
+
   -c [COLORS [COLORS ...]]
+
                         2 len list of font colors to compare. EX: 05ab1b 55abc8
+
                         Default is random selection.
+
   -i ITERATIONS         Number of training iterations. Minimum 50. Default is
+
                         100.
