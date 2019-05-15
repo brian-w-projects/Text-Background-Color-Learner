@@ -1,9 +1,7 @@
-# color_learner
-Small Machine Learning App that selects the best color to display text given different colored backgrounds
+# Color Preferences with Machine Learning
+## Small Machine Learning App that selects the best color to display text given different colored backgrounds
 
-Published: 09/28/2018
-
-Author: Brian Weinfeld
+[![YOUTUBE](https://img.youtube.com/vi/D3QkF0KDC2A/0.jpg)](https://www.youtube.com/watch?v=D3QkF0KDC2A)
 
 This is a small example machine learning project the purpose of which is to determine which color font should be
 selected given a variety of different background colors. Two possible font colors are selected at random along with
